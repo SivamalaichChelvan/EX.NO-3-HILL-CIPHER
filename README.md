@@ -108,7 +108,8 @@ return 0;
 
 ```
 ## OUTPUT
-<img width="1848" height="700" alt="Screenshot 2026-10-23 095547" src="https://github.com/user-attachments/assets/d1eec7b8-c87b-4e59-a3e4-0d292af3ffd2" />
+<img width="1600" height="777" alt="d086cdfc-4f34-4beb-bd25-1dbd81cfe2f8" src="https://github.com/user-attachments/assets/abc33f12-a6d1-449d-9788-81e2d4962a80" />
+
 
 ## RESULT
 The Program executed successfully
